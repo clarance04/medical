@@ -74,7 +74,7 @@ export default function Home() {
 
           <Col md="6">
           <p> Dr. MBBS,MD</p><hr />
-          <p>Dr.Jerald MBBS,MD</p><hr />
+          <p>Dr. MBBS,MD</p><hr />
           <p>Dr.Santhan MBBS,MD</p><hr />
           <p>Dr.Jerome MBBS,MD</p><hr />
           <p>Dr.Muthayan MBBS,MD</p><hr />
