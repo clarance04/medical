@@ -1,0 +1,59 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+.appoifor{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvM2UVPlVltd2Ug3VgL-CmpHmuHQCcG7cLr73tNBr4YzvuYGVopqQhiq9KpYkVGmzEVo&usqp=CAU");
+    background-size: cover;
+    font-size: larger;
+    min-height: 80%;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    width: 90%;
+    color: aliceblue;
+   
+}
+
+.appoifor h3{
+    text-align: center;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+    color: rgb(248, 246, 246);
+    font-size: 30px;
+}
+
+.appoi-button {
+    background-color: #dee2f8; 
+    color: rgb(17, 66, 156);
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    font-weight: bolder;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    width:250px;
+    margin-top: 25px;
+    
+  }
+
+  .appoi-button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color:rgb(17, 66, 156); 
+    color: #f8f8fa;
+  }
+
+
+
